@@ -1,0 +1,56 @@
+<DOCTYPE HTML>
+<html lang = "en-US">
+<head>
+<meta charset ="UTF-8">
+<meta name ="Keywords" content ="Knowmehomepage,searchme,infopeerson">
+<meta name ="description" content="Learn more about someone else">
+<meta name="author" content="Dedan J. Msafari">
+<meta http-equiv="refresh" content="30">
+<meta name="viewport" content="width=device-width,initial-scale=2.0">
+<link rel = "stylesheet"
+  type="text/css"
+  href="homepage.css">
+
+
+</head>
+<body>
+<h1 id="Header"><em>KNOWME </em></h1>
+<div id ="menu">
+<ul>
+<li>HOME<ul>
+<li>YOU ARE IN THE HOME PAGE</li>
+
+</ul></li>
+
+</ul></li>
+<li><a href ="page1.html">CONTACT DEVELOPER</a></li>
+<li><a href ="loki.html">VIEW CURRICULUM VITAE(CV)</a></li>
+<li><a href ="page3.html">GALLERY</a></li>
+</div>
+
+</ul>
+
+<h2><em>Version 1.0.0</em></h2>
+<p> </p>
+<p> </p>
+<h3 id ="jina"><strong><em>Dedan Jeff Msafari</em></strong></h3>
+<img id="img"
+    src="lolo.jpg"
+   height="320"
+   width="300"
+   alt="Image of Dedan Jeff Msafari"/>
+   
+  <h4>ABOUT CODER</h4>
+  <p>
+  <strong> My name is Dedan  Jeff Msafari.I am 21 years old.I was born in Nairobi,Kenya.I am currently a student of computer science at Egerton University Njoro Campus Pursuing a degree in Computer Science.
+  I created this site mainly as a refence point through which i could refer people who would like to get to know me,mainly employers and would be friends.I am enthusiastic about life.and i simply enjoy the process
+  of living life.
+  I am enthusiastic about nature and getting to understand how different people think and respond to different environments.I am not a philosopher but i would like to imagine myself as aristotle in the halls of Greece giving lectures and life views.
+  </strong></p>
+  <p>
+  <strong>
+   I love Playing soccer ,chess and dedicating myself to things that improve the quality of my life.I like to socialize with people of all kinds in order to improve my social skills and
+   I believe in a world where people are kind to each other and help each other to grow in all aspects of life</strong>
+   </p>
+</body>
+</html>
